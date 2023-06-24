@@ -18,7 +18,9 @@ email: kavinarasu22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there! My name's Kavin.
 github_username: MocktaiLEngineer
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
+
+
 search: true
 search_full_content: true
 
@@ -33,6 +35,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
