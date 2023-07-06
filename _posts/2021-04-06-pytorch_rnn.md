@@ -1,3 +1,9 @@
+---
+title: Tada! RNN it is
+mathjax: true
+date: 2021-04-06
+---
+
 In this article, we will explore recurrent neural networks (RNNs) and their implementation using PyTorch. While we won't build everything from scratch, we'll still gain valuable insights by implementing certain parts without relying on PyTorch's autograd for gradient computation and backpropagation.
 
 I want to emphasize that this post is largely adapted from [this PyTorch tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html), with modifications to the preprocessing and training steps. I encourage you to check out the original tutorial as supplementary material. Now, let's dive in and get started.

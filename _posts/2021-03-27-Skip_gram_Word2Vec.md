@@ -1,7 +1,7 @@
 ---
 title: Skipgram Word2Vec
 mathjax: true
-date: 2023-06-22
+date: 2021-03-27
 ---
 
 In this tutorial, we delve into the skip-gram neural network architecture used in Word2Vec. The purpose of this tutorial is to bypass the typical introductory and abstract explanations about Word2Vec and instead focus on the intricacies of the skip-gram neural network model.
